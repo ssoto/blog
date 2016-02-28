@@ -12,8 +12,8 @@ env.deploy_path = 'output'
 DEPLOY_PATH = env.deploy_path
 
 # Remote server configuration
-production = 'dev@my-box.tech:22'
-dest_path = '/var/www/blog'
+production = 'dev@my-box.tech:22022'
+dest_path = '~/blog'
 
 # Rackspace Cloud Files configuration settings
 env.cloudfiles_username = 'my_rackspace_username'

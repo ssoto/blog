@@ -1,0 +1,3 @@
+[submodule "themes/pelican-clean"]
+	path = themes/pelican-clean
+	url = https://github.com/ssoto/pelican-clean-blog.git
